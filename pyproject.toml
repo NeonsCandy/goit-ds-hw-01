@@ -1,0 +1,15 @@
+[project]
+name = "goit-algo-hw-08-main"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "NeonsCandy",email = "99353410+NeonsCandy@users.noreply.github.com"}
+]
+requires-python = ">=3.14"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
